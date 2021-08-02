@@ -1,0 +1,13 @@
+YouTube Streaming work on Xtream UI 
+
+expand zip file to your Loadbalancer
+/home/xtreamcodes/iptv_xtream_codes/wwwdir
+
+?id={LIVE STREAM VIDEO ID} 
+
+For example stream on XtreamCodes UI Panel *with your LB :
+http://127.0.0.1:25461/youtube/streaming/youtube_live.php?id=30qZjexZ8bQ
+
+or
+
+http://your_LB_IP:Port/25461/youtube/streaming/youtube_live.php?id=30qZjexZ8bQ
